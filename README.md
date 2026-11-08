@@ -10,7 +10,7 @@
 - **ورد الخير اليومي:** 26 عملًا في ستة أبواب، منها بر الوالدين.
 - **مكتبة النصوص:** 58 نصًا (27 آية و31 حديثًا) في الإخلاص وفعل الخير والأمر بالمعروف والأثر الباقي وبر الوالدين والرحمة وحسن الخلق، مع بحث، وبيان نوع كل نص ومصدره، وحكمه حين يُختلف في صحته.
 - **بطاقات المشاركة:** تحويل أي نص أو عمل خير إلى صورة بأربعة قوالب.
-- **بطاقات التهنئة:** رمضان، وعيد الفطر، وعيد الأضحى، ومولود جديد، ومولودة جديدة، بسبعة قوالب جاهزة وتصميم خاص بالمنصة، مع اسم المُهنَّأ واسم المُهنِّئ.
+- **بطاقات التهنئة:** صباح الخير، ورمضان، وعيد الفطر، وعيد الأضحى، ومولود جديد، ومولودة جديدة، بثمانية قوالب جاهزة وتصميم خاص بالمنصة لكل مناسبة، مع اسم المُهنَّأ واسم المُهنِّئ.
 - **المحاسبة الأسبوعية:** ثلاثة أسئلة تُحفظ على جهاز المستخدم فقط.
 
 ## النشر على GitHub Pages
@@ -26,6 +26,7 @@
 - **الآيات:** قورن نصها وأرقامها آليًا بمصحف حفص. وبعضها مقتطع من وسط الآية، ويُشار إلى الاقتطاع بعلامة «…».
 - **الأحاديث:** قورنت ألفاظها آليًا بصحيح البخاري وصحيح مسلم. وحيث اختلف اللفظ بين الشيخين نُصّ على صاحب اللفظ.
 - **نص واحد مختلف في صحته:** «اعْفُ عمَّنْ ظَلَمَكَ…» (عن علي رضي الله عنه)، صححه الألباني لغيره وضعّفه آخرون، وقد وُسم بذلك في الصفحة.
+- **ذكر الصباح في بطاقة «صباح الخير»:** «أصبحنا وأصبح الملك لله…» من رواية مسلم (2723) عن ابن مسعود رضي الله عنه، وفيها: «وإذا أصبح قال ذلك أيضًا: أصبحنا وأصبح الملك لله». راجعتُ لفظه ورقمه على الموسوعة الحديثية.
 - **التهنئة بالمولود:** «بارك الله لك في الموهوب لك…» أثر مأثور عن الحسن البصري وليس حديثًا، ويُذكر ذلك على البطاقة.
 - **عبارات التهنئة في القوالب** دعاء وتهنئة متداولة، وليست نصوص أحاديث.
 
@@ -47,7 +48,7 @@
 
 ## English
 
-Athar Maker is a single-file, bilingual (Arabic/English) guide to doing good and sincerity of work for God: an intention compass, a daily good deed, a library of 58 Quran verses and hadiths with sources and grading, share cards, and Eid, Ramadan and newborn greeting cards. Upload `index.html` to the root of a repository and enable GitHub Pages (Deploy from a branch → `main` → `/ (root)`).
+Athar Maker is a single-file, bilingual (Arabic/English) guide to doing good and sincerity of work for God: an intention compass, a daily good deed, a library of 58 Quran verses and hadiths with sources and grading, share cards, and good-morning, Ramadan, Eid and newborn greeting cards. Upload `index.html` to the root of a repository and enable GitHub Pages (Deploy from a branch → `main` → `/ (root)`).
 
 ---
 
